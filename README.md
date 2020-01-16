@@ -147,3 +147,5 @@ func main() {
 }
 ```
 
+Have a try!
+
